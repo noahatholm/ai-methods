@@ -22,7 +22,7 @@ public class Lab1ExercisesTestFrameConfig extends TestFrameConfig {
 	 * The experimental seed, initially all are set as the date of the in-person lab.
 	 */
 	//private static final long[] m_seeds = { 30012026L, 30012026L, 30012026L };
-    private static final long[] m_seeds = { 0, 0, 0 };
+    private static final long[] m_seeds = { 67, 100, 100000 };
 
 
     /*

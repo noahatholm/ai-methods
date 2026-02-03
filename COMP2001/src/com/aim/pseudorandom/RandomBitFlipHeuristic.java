@@ -35,7 +35,10 @@ public class RandomBitFlipHeuristic extends SATHeuristic {
 	@Override
 	public void applyHeuristic(SAT oProblem, int iSolutionIndex) {
 		// TODO - deterministically select a random bit in the solution stored in <code>iSolutionIndex</code> and flip it.
-
+        int x = oProblem.getNumberOfVariables();
+        int y = m_oRandom.nextInt(0,x);
+        System.out.println(y);
+        oProblem.bitFlip(y, iSolutionIndex);
 	}
 
 	@Override
