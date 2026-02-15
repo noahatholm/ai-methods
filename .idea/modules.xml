@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADE/ADE.iml" filepath="$PROJECT_DIR$/ADE/ADE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COMP2001/COMP2001.iml" filepath="$PROJECT_DIR$/COMP2001/COMP2001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ai-methods.iml" filepath="$PROJECT_DIR$/.idea/ai-methods.iml" />
+    </modules>
+  </component>
+</project>

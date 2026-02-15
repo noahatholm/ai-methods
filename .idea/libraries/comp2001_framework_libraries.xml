@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="comp2001-framework-libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/comp2001-framework-libraries/xchart-3.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/comp2001-framework-libraries/comp2001-framework-2026.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
